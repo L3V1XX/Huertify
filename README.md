@@ -46,7 +46,6 @@ Se olvida cuándo regar o abonar y no siempre está claro cuándo plantar o cose
 - 🤖 Asistente virtual con IA para dudas sobre plagas, riego o cultivo.
 - 💡 Consejo del día adaptado a la época del año.
 - 🌦️ Datos climáticos de la zona del usuario (lluvia, humedad…).
-- 🧑‍🤝‍🧑 Comunidad.
 
 ## 🛠️ Tecnologías
 
@@ -89,4 +88,6 @@ En fase de **análisis y documentación** (Hito 1). El desarrollo de la aplicaci
 
 ## 📄 Licencia
 
-Pendiente de definir.
+© 2026 Jose Manuel Payán Gordillo. **Todos los derechos reservados.**
+
+No se permite copiar, modificar, distribuir ni utilizar el código, la documentación, el logo ni la mascota sin autorización expresa del autor. Consulta el archivo [LICENSE](LICENSE).
