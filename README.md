@@ -57,7 +57,7 @@ Se olvida cuándo regar o abonar y no siempre está claro cuándo plantar o cose
 | Almacenamiento local | AsyncStorage o MMKV (por evaluar) |
 | Idiomas | i18n en la app con traducciones en base de datos |
 
-## 🌿 Datos de cultivos
+## 🌿 Datos de cultivos (Aun por definir e investigar)
 
 Huertify usa su propio catálogo de cultivos en la base de datos, construido a partir de fuentes abiertas y completado con datos adaptados a España (meses de siembra, germinación, riego y abonado).
 
@@ -67,7 +67,7 @@ Huertify usa su propio catálogo de cultivos en la base de datos, construido a p
 | [Growstuff](https://www.growstuff.org/) | Días medios hasta la cosecha | Ver condiciones de Growstuff |
 | [Wikidata](https://www.wikidata.org/) | Nombres comunes en varios idiomas | CC0 |
 
-> El script `scripts/descargar_growstuff.mjs` descarga los cultivos de Growstuff a JSON para importarlos a la base de datos.
+
 
 ## 📁 Estructura del repositorio
 

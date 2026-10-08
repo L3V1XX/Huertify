@@ -1,6 +1,7 @@
 # CONTEXTO TFG — Huertify
 
 > Archivo vivo: se actualiza en cada sesión. Leer entero al empezar un chat nuevo.
+> Carpeta del proyecto (desde 2026-10-08): `C:\Users\Levi\Documents\Huertify`, repositorio git enlazado a https://github.com/L3V1XX/Huertify (rama main).
 > Última actualización: 2026-10-08
 
 ## 1. Datos generales
@@ -49,7 +50,7 @@
 - Stack: Expo (React Native) + PostgreSQL/Supabase (Supabase como posibilidad, no cerrado).
 
 ## 6b. Hitos del centro
-### H1 · S02 Ficha de idea y equipo (borrador en `H1_S02_Ficha_idea.md`)
+### H1 · S02 Ficha de idea y equipo (ficha ya entregada; no se guarda en el repositorio)
 - 3 funciones de la ficha: F1 parcelas/bancales/macetas + cultivos; F2 ficha técnica de planta + notificaciones de riego y abonado; F3 registro, onboarding con la mascota, perfil personalizable y logros.
 - Apartados 5 y 6 rellenados con propuestas de Claude: pendiente de confirmar por el alumno + canal de coordinación con el profesor.
 - Acciones antes de S03: revisar 3 apps de huertos; buscar fuente de datos de plantas.
@@ -83,3 +84,4 @@
 - 2026-10-04: ficha S02 rellenada con la versión del alumno; añadido nombre.
 - 2026-10-04: Función 3 de la ficha = onboarding + perfil + logros; notificaciones pasan a la Función 2.
 - 2026-10-08: logo/icono en assets/, README creado, propuesta de fuentes de datos de cultivos.
+- 2026-10-08: nueva carpeta del proyecto `Documents\Huertify` con repo GitHub; ficha S02 retirada del repo; restaurado `scripts/descargar_growstuff.mjs`.
