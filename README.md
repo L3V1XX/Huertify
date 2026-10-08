@@ -74,7 +74,6 @@ Huertify usa su propio catálogo de cultivos en la base de datos, construido a p
 ```
 Huertify/
 ├── assets/            # Logo, icono y recursos gráficos
-├── scripts/           # Scripts de importación de datos
 └── README.md
 ```
 
